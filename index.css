@@ -1,4 +1,21 @@
 /* This is an example CSS file, feel free to remove/edit it anytime */
+
+* {
+  background-color:#C8E6CA;
+}
+.container {
+  width: 1024px;
+  height: 600px;
+  background-color: #FFF;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 150px auto;
+  box-sizing: border-box;
+  box-shadow: 2px 2px 10px #888888;
+  border-radius: 2%;
+}
+
 .footer {
   position: absolute;
   bottom: 0;
